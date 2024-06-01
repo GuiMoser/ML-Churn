@@ -1,2 +1,3 @@
-# ML-F1score
-Hyperparameter Tuning and Handling Class Imbalance
+# Machine Learning Improving F1 Score
+
+Hyperparameter Tuning and Handling Class Imbalance.
