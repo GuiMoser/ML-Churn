@@ -4,8 +4,8 @@ Hyperparameter Tuning and Handling Class Imbalance.
 
 This notebook performs an EDA on a churn dataset.
 
-Then tests three types of model (DecisionTree, RandomForest, LogisticRegression) with different hyperparameters.
+Then tests three types of model (DecisionTree, RandomForest, LogisticRegression) with different hyperparameters to choose the best one.
 
-To handle with the classes imbalance, uses the oversmapling method, and the parameter class_weight='balanced' in the model. 
+To handle with the classes imbalance, uses the oversmapling method, and the parameter class weight in the model. 
 
-To finish, adjuste more hyperparameters in the model, to improve performance on the test set and increase the F1_Score.
+To finish, tune more hyperparameters in the model, to improve performance on the test set and increase the F1_Score.
