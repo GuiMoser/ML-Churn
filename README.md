@@ -2,7 +2,7 @@
 
 Hyperparameter Tuning and Handling Class Imbalance.
 
-This notebook performs an EDA on churn a dataset.
+This notebook performs an EDA on a churn dataset.
 
 Then tests three types of model (DecisionTree, RandomForest, LogisticRegression) with different hyperparameters.
 
